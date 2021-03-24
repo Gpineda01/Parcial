@@ -1,0 +1,34 @@
+body{
+    background-color: #b2dfa7;
+}
+
+
+
+.FotoUnica { 
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+
+
+h1{
+    color: rgb(0, 0, 0); 
+    text-align: center;
+    font-family: 'Trebuchet MS'
+   }
+
+.Nombre {
+    background-color: rgba(47, 50, 226, 0.884);
+}
+
+p{
+    font-family: verdana;
+    color: rgb(0, 0, 0); 
+    font-size: 14x;
+    text-align: left;
+}
+
+.Enlace {
+    text-align: center;
+}
